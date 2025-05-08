@@ -1,7 +1,8 @@
 {
-    "files.associations": {
-        "ctime": "cpp",
-        "iostream": "cpp",
-        "iosfwd": "cpp"
-    }
+  "files.associations": {
+    "ctime": "cpp",
+    "iostream": "cpp",
+    "iosfwd": "cpp",
+    "xstring": "cpp"
+  }
 }
